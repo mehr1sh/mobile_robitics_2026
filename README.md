@@ -1,7 +1,6 @@
 # Calibrated Confidence for Kilometre-Scale Feed-Forward SLAM (mid submission code)
 
 Kavish Vora, Pranav Srivastava, Mehrish Khan (IIIT Hyderabad), Mobile Robotics, Monsoon 2026.
-Full repository with results: https://github.com/Pranav-S05/MR_Proj
 
 VGGT-Long runs VGGT on overlapping windows of a long monocular drive, joins neighbouring windows with Sim(3) seams,
 closes loops, and solves a pose graph in which every edge has the same weight. This code measures whether VGGT's
